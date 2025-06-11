@@ -42,7 +42,7 @@ const christopher = {
     
     ctfPlayer: {
         username: "cipher_101",
-        focus: ["Web Security", "Crypto", "Binary Exploitation"],
+        focus: ["Web Security", "Crypto", "Binary Exploitation", "Reverse Engineering"],
         achievements: "Active in various CTF platforms"
     },
     
@@ -182,25 +182,6 @@ const christopher = {
 [![YouTube Music Playlist](https://img.shields.io/badge/🎵%20Coding%20Beats-Check%20Out%20My%20Playlist-red?style=for-the-badge&logo=youtube-music)](https://music.youtube.com/playlist?list=PLZ-IN09hdfHKpQZnTWT8Bo3Z9uQjnd8PM&si=TJgJ8hvHWItysTx6)
 
 </div>
-
----
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-🔥 This week's coding activity:
-
-TypeScript   ████████████░░░░   48.3%  (8h 15m)
-JavaScript   ██████░░░░░░░░░░   26.4%  (4h 30m) 
-Java         ████░░░░░░░░░░░░   16.2%  (2h 45m)
-PHP          ██░░░░░░░░░░░░░░   08.8%  (1h 30m)
-Other        ░░░░░░░░░░░░░░░░   00.3%  (10m)
-
-💡 Most productive day: Wednesday
-🏆 Longest streak: 12 days
-```
-<!--END_SECTION:waka-->
 
 ---
 
